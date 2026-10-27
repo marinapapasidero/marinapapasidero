@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-I am a recent graduate from the MSc in Data Science and Marketing Analytics at Erasmus School of Economics.
+I am a recent graduate from the MSc in Data Science and Marketing Analytics at Erasmus School of Economics and currently a Data Scientist in Amsterdam.
 
 My academic and professional interests include:
 - Data science, machine learning & analytics
